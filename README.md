@@ -22,4 +22,4 @@
 
 ## Image
 
-![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
+![image](dog2.jpeg)
